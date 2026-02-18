@@ -60,20 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40"/>&nbsp;
 </div>
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahkostesku&layout=donut&theme=github_dark" width="60%"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=noahkostesku&show_icons=true&theme=github_dark" width="60%"/>
-</div>
-
-
 ---
-## Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/noahkostesku/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a>&nbsp;
 </p>
 
 
