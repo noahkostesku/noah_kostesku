@@ -1,15 +1,17 @@
-<h1 align="center">Hi, I'm Noah</h1>
+<h1 align="center">Noah Kostesku</h1>
 <p align="center">
-  CS+ Math @ Western University &nbsp;•&nbsp; Passionate about AI, AIOps, Entrepreneurship
+  CS @ Western University
 </p>
 
 ---
 
-## Currently Learning
+## Experience
 
-- LLM Explainability Techniques
-- Qodo for automating CI/CD pipelines
-- hollistic and atomistic prompt engineering for system workflows
+- Machine Learning (representation learning, explainability, multimodal systems)
+- Computer Vision (self-supervised learning, saliency evaluation, video models)
+- Reinforcement Learning (policy optimization, simulation environments, benchmarking)
+- High-Performance Computing (distributed training, MPI, GPU clusters, workload scheduling)
+- Applied AI Systems (agentic workflows, multi-agent orchestration, real-world deployment)
 
 ---
 
@@ -18,6 +20,7 @@
 ### Languages 💻
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust" width="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>&nbsp;
